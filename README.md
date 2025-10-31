@@ -1,4 +1,8 @@
-# 🛡️ Buyer-Seller Authentication System
+# BUYER-SELLER AUTHENTICATION SYSTEM
+
+https://github.com/user-attachments/assets/9f012abe-4edf-401c-b2d3-35bd2326f15d
+
+🛡️ Buyer-Seller Authentication System
 
 A full-stack role-based authentication system built with React, TypeScript, Node.js, Express, and MongoDB. Features separate dashboards for buyers and sellers with comprehensive form validations and protected routes.
 
